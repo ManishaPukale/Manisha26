@@ -1,0 +1,3 @@
+typescript is a single web page appliction 
+retake the web site
+typescript is component based application
